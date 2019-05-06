@@ -1,13 +1,13 @@
 # OC_TOOL_SH
 
-1.快速构建IOS工程目录的shell脚本
-sh 你的本地的地址/c_oc_files.sh
+1.快速构建IOS工程目录的shell脚本 \n
+sh 你的本地的地址/c_oc_files.sh \n
 
-2.请输入你的地址
-pls type in ur floderpath:
-/Users/xxxxx/Desktop/cityp/CityPartner/CityPartner //把你想要建立的文件夹目录拖过来,你的地址就会显示啦
+2.请输入你的地址 \n
+pls type in ur floderpath: \n
+/Users/xxxxx/Desktop/cityp/CityPartner/CityPartner //把你想要建立的文件夹目录拖过来,你的地址就会显示啦 \n
 
-3.选择你要创建的module //目前只可以选择1 其他的还没写完会持续的更新的
+3.选择你要创建的module //目前只可以选择1 其他的还没写完会持续的更新的 \n
 1.create module
 2.create mvvm class
 3.create vc
