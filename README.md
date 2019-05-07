@@ -1,4 +1,4 @@
-# OC_TOOL_SH
+# c_oc_files.sh 使用说明
 
 <p>1.快速构建IOS工程目录的shell脚本 <br>
 sh 你的本地的地址/c_oc_files.sh <br>
